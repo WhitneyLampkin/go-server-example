@@ -32,6 +32,8 @@ Once golang has been installed, run `make` command to start service.
 $ make
 ```
 
+This will start the server on localhost:8080, which you can navigate to using your browser to access.
+
 For production environments...
 
 ```sh
